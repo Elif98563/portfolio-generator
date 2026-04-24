@@ -1,6 +1,6 @@
 {
   "name": "portfolio-generator",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "description": "JS framework to dynamically generate a portfolio site from a JSON resume",
   "main": "src/index.js",
   "scripts": {
